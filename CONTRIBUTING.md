@@ -24,7 +24,7 @@
     
     Add a upstream link to main branch in your cloned repo
     
-    git remote add upstream https://github.com/PritamSarbajna/tourism-website.git
+    git remote add upstream https://github.com/unlisted02/tourism-website.git
     
     Keep your cloned repo upto date by pulling from upstream (this will also avoid any merge conflicts while committing new changes)
     
@@ -63,8 +63,7 @@
     
 # Contributing
 
-We love pull requests from everyone. By participating in this project, you
-agree to abide by the [Code Of Conduct](https://github.com/PritamSarbajna/tourism-website/blob/main/CODE_OF_CONDUCT.md).
+We love pull requests from everyone.
 
 # License
 

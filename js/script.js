@@ -17,6 +17,7 @@ if (window.screen.width <= 1130) {
         $("#tri").css("border", "2px solid whitesmoke");
         $("#tri").css("border-radius", "20px");
     });
+    
     $("#quad").on("click", function () {
         removeall();
         $("#quad").css("border", "2px solid whitesmoke");
